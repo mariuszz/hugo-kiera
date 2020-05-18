@@ -1,0 +1,12 @@
+[categories]
+other = "Kategorie:"
+
+[readingTime]
+one = "Minuta czytania"
+other = "Czas czytania w minutach: {{.Count}}"
+
+[readMore]
+other = "Więcej…"
+
+[draft]
+other = "SZKIC"
