@@ -1,6 +1,8 @@
 public/
 npm_modules/
 node_modules/
+.idea/
+hugo-kiera.iml
 .npm
 bower_components
 trash
